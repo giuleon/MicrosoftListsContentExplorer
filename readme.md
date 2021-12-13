@@ -1,5 +1,5 @@
 # 🧭How to create a content explorer view in Microsoft Lists
-This sample demonstrate how to use list view formatting to set a video library view in a SharePoint document library
+This sample demonstrates how to use Microsoft List view and column formatting to create a dynamic list with navigation
 
 ![🧭How to create a content explorer view in Microsoft Lists](./Preview.gif)
 
